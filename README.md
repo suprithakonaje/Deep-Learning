@@ -9,5 +9,4 @@ The original paper is published in the given
 
 
 
-The link for the code is given in the [link]:
-https://github.com/COMP6248-Reproducability-Challenge/Latent-Image-Animator.git
+The link for the code is given in the [link](https://github.com/COMP6248-Reproducability-Challenge/Latent-Image-Animator.git)
